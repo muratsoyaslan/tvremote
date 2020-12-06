@@ -12,4 +12,4 @@ elif işlem == "3":
 elif işlem == "4":   
    print("{} ile  {} in bölümü {} dır".format(a,b,a/b)) 
 else:
-   print("İşlem bulunamamaktadır")    
+   print("sonuç bulunamadı")    
